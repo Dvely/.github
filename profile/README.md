@@ -17,6 +17,9 @@
   <a href="https://www.npmjs.com/package/@qeploy/cli">@qeploy/cli</a>
 </p>
 
+> [!WARNING]
+> **서비스 일시 중단 (2026년 10월 30일~)** — 운영 서버 사정으로 Qeploy 서비스를 일시 중단했습니다. 로그인, 프로젝트 생성·관리, 배포, 도메인 연결, MCP·CLI(`@qeploy/mcp`·`@qeploy/cli`) 연동이 동작하지 않습니다. [qeploy.com](https://qeploy.com)에서는 서비스 소개와 템플릿만 볼 수 있습니다. 재개 일정은 정해지는 대로 이곳과 qeploy.com에 알리겠습니다. 아래 기능 표의 상태는 중단 전까지 구현된 범위입니다.
+
 <br />
 
 <p align="center">
