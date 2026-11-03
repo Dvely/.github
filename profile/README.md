@@ -53,8 +53,9 @@ Qeploy는 이 과정을 하나의 대화로 묶습니다. 사용자는 결과를
   <img src="https://img.youtube.com/vi/2mHDFhnFWCs/maxresdefault.jpg" alt="Qeploy 시연 영상" width="720" />
 </a>
 
-- **2026 한이음 공모전 시연 (1분 24초)**: https://www.youtube.com/watch?v=2mHDFhnFWCs — 생성·수정 → 미리보기 → 승인·배포
-- 1학기 시연 영상: https://youtu.be/40x44EsGruY
+- **2학기 2차 시연 (1분 24초)**: https://www.youtube.com/watch?v=2mHDFhnFWCs — 생성·수정 → 미리보기 → 승인·배포
+- 2학기 1차 시연 (1분 26초): https://www.youtube.com/watch?v=M1GR5Z2Jh-o
+- 1학기 시연: https://youtu.be/40x44EsGruY
 
 ---
 
