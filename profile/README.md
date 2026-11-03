@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://qeploy.com">qeploy.com</a> ·
-  <a href="https://www.youtube.com/watch?v=M1GR5Z2Jh-o">시연 영상</a> ·
+  <a href="https://www.youtube.com/watch?v=2mHDFhnFWCs">시연 영상</a> ·
   <a href="./docs/semester2-presentation.pdf">발표 자료 (PDF)</a> ·
   <a href="https://www.npmjs.com/package/@qeploy/cli">@qeploy/cli</a>
 </p>
@@ -49,11 +49,11 @@ Qeploy는 이 과정을 하나의 대화로 묶습니다. 사용자는 결과를
 
 ## 시연 영상
 
-<a href="https://www.youtube.com/watch?v=M1GR5Z2Jh-o">
-  <img src="https://img.youtube.com/vi/M1GR5Z2Jh-o/maxresdefault.jpg" alt="Qeploy 시연 영상" width="720" />
+<a href="https://www.youtube.com/watch?v=2mHDFhnFWCs">
+  <img src="https://img.youtube.com/vi/2mHDFhnFWCs/maxresdefault.jpg" alt="Qeploy 시연 영상" width="720" />
 </a>
 
-- **2026 한이음 공모전 시연 (1분 26초)**: https://www.youtube.com/watch?v=M1GR5Z2Jh-o — 생성·수정 → 미리보기 → 승인·배포
+- **2026 한이음 공모전 시연 (1분 24초)**: https://www.youtube.com/watch?v=2mHDFhnFWCs — 생성·수정 → 미리보기 → 승인·배포
 - 1학기 시연 영상: https://youtu.be/40x44EsGruY
 
 ---
@@ -222,7 +222,7 @@ Qeploy는 이 과정을 하나의 대화로 묶습니다. 사용자는 결과를
 | <strong>03. 현상과 문제</strong><br><img src="./assets/presentations/semester2/03-section-problem.png" width="420"> | <strong>04. AI 활용 현황</strong><br><img src="./assets/presentations/semester2/04-ai-usage.png" width="420"> |
 | <strong>05. 신뢰의 조건: 검증</strong><br><img src="./assets/presentations/semester2/05-trust-verification.png" width="420"> | <strong>06. 웹 초안 이후의 작업</strong><br><img src="./assets/presentations/semester2/06-after-web-draft.png" width="420"> |
 | <strong>07. 서비스 포지셔닝</strong><br><img src="./assets/presentations/semester2/07-positioning.png" width="420"> | <strong>08. 서비스와 기술 구현</strong><br><img src="./assets/presentations/semester2/08-section-service.png" width="420"> |
-| <strong>09. 서비스 시연</strong><br><a href="https://www.youtube.com/watch?v=M1GR5Z2Jh-o"><img src="./assets/presentations/semester2/09-demo-video.png" width="420"></a> | <strong>10. 시스템 구성</strong><br><img src="./assets/presentations/semester2/10-system-architecture.png" width="420"> |
+| <strong>09. 서비스 시연</strong><br><a href="https://www.youtube.com/watch?v=2mHDFhnFWCs"><img src="./assets/presentations/semester2/09-demo-video.png" width="420"></a> | <strong>10. 시스템 구성</strong><br><img src="./assets/presentations/semester2/10-system-architecture.png" width="420"> |
 | <strong>11. Agent 작업 분담</strong><br><img src="./assets/presentations/semester2/11-agent-roles.png" width="420"> | <strong>12. 미리보기 격리</strong><br><img src="./assets/presentations/semester2/12-preview-isolation.png" width="420"> |
 | <strong>13. 인증정보의 실행 범위</strong><br><img src="./assets/presentations/semester2/13-credential-scope.png" width="420"> | <strong>14. 실패 복구 순서</strong><br><img src="./assets/presentations/semester2/14-failure-recovery.png" width="420"> |
 | <strong>15. 사용 흐름에서 발견한 문제</strong><br><img src="./assets/presentations/semester2/15-usage-flow-issues.png" width="420"> | <strong>16. 유휴 DB 조회 감소</strong><br><img src="./assets/presentations/semester2/16-idle-db-query.png" width="420"> |
